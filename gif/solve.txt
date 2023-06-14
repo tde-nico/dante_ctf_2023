@@ -1,0 +1,14 @@
+> exiftool -a dante.gif | grep Com
+Comment                         : Hey look, a comment!
+Comment                         : These comments sure do look useful
+Comment                         : I wonder what else I could do with them?
+Comment                         : 44414e54457b673166355f
+Comment                         : 3472335f6d3464335f6279
+Comment                         : 5f626c30636b357d
+Comment                         : At the edges of the map lies the void
+
+
+hex -> str
+44414e54457b673166355f 3472335f6d3464335f6279 5f626c30636b357d
+
+DANTE{g1f5_4r3_m4d3_by_bl0ck5}
